@@ -1,7 +1,7 @@
 # Paper Test Server Skeleton
 This repo simply serves as a skeleton on the basics of a test server for [Paper](https://github.com/PaperMC/Paper)
 
-You can fork this repo and use a modified version by setting PAPER_TEST_SERVER_REPO environment variable, or by simply
+You can fork this repo and use a modified version by setting PAPER_TEST_SKELETON environment variable, or by simply
 resetting origin in your test server to your fork.
 
 # Goal
