@@ -1,0 +1,17 @@
+world 
+world_nether
+world_the_end
+*.json
+bukkit.yml
+spigot.yml
+paper.yml
+commands.yml
+permissions.yml
+help.yml
+crash-reports
+logs
+eula.txt
+wepif.yml
+plugins/Essentials/userdata/
+plugins/Essentials/usermap.csv
+plugins/WorldEdit/sessions/
