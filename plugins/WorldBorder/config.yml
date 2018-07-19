@@ -16,3 +16,20 @@ bypass-list-uuids: []
 fill-memory-tolerance: 500
 prevent-block-place: false
 prevent-mob-spawn: false
+worlds:
+  world:
+    x: -35.56246138671035
+    z: -51.788340764196654
+    radiusX: 10000
+    radiusZ: 10000
+    wrapping: false
+fillTask:
+  world: world
+  fillDistance: 208
+  chunksPerRun: 1
+  tickFrequency: 1
+  x: -42
+  z: 36
+  length: 80
+  total: 6402
+  forceLoad: false
