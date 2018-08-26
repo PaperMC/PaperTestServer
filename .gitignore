@@ -25,3 +25,6 @@
 /whitelist.json
 
 /*.jar
+# macOS file system dust
+*.DS_*
+
