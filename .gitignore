@@ -28,3 +28,4 @@
 # macOS file system dust
 *.DS_*
 
+plugins/Multiverse-Core/worlds.yml
