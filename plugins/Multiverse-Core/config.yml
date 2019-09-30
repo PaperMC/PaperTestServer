@@ -33,3 +33,4 @@ multiverse-configuration:
   defaultportalsearch: 'false'
   portalsearchradius: '128'
   autopurge: 'true'
+  idonotwanttodonate: 'true'
