@@ -1,4 +1,4 @@
-#version: 2.17.1.17
+#version: 2.17.1.26
 {
   "acacia_boat": {
     "material": "ACACIA_BOAT"
@@ -24797,4 +24797,4 @@
   "sign": "oak_sign"
 }
 
-#32e4a55b68b40361ca737f0ccc06ba80
+#fe39c82c71fb6c625e5a41028afbb420
