@@ -13,7 +13,7 @@
 
 # If you have problems join the Essentials help support channel: http://tiny.cc/EssentialsChat
 
-# Version 2.17.1.17
+# Version 2.17.1.26
 
 # KITS ARE NOW IN THE kits.yml FILE
 
@@ -919,6 +919,9 @@ spawn-join-listener-priority: high
 
 # When users die, should they respawn at their first home or bed, instead of the spawnpoint?
 respawn-at-home: false
+
+# If no home is set, would you like to send the player to spawn? (Only applies to /home)
+spawn-if-no-home: true
 
 # Teleport all joining players to the spawnpoint
 spawn-on-join: false
