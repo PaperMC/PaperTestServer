@@ -1,14 +1,13 @@
 /cache/
 /crash-reports/
 /logs/
-/plugins/bStats/
 /plugins/Essentials/userdata/
+/plugins/Essentials/usermap.csv
 /plugins/WorldEdit/sessions/
 /world/
 /world_nether/
 /world_the_end/
 
-/plugins/Essentials/usermap.csv
 /banned-ips.json
 /banned-players.json
 /bukkit.yml
